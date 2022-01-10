@@ -35,7 +35,7 @@
               <h6>Silahkan Login</h6>
               <br>
               <div>
-                <input type="text" id="username17"" class="form-control" placeholder="Username" name="username17" required="" />
+                <input type="text" id="username17" class="form-control" placeholder="Username" name="username17" required="" />
               </div>
               <div>
                 <input type="password" id="password" class="form-control" placeholder="Password" name="password" required="" />
